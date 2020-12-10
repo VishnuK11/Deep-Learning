@@ -14,8 +14,7 @@ The repository contains excercise on:
 	- Gradient Checking
 	- Optimization Methods
 * [C-3 Structuring Machine Learning Projects](https://github.com/VishnuK11/Deep-Machine-Learning/tree/main/C%203%20Structuring%20Machine%20Learning%20Projects)
-	- Logistic Regression
-	- Regularization
+	
 * [C-4 Convolution Neural Networks](https://github.com/VishnuK11/Deep-Machine-Learning/tree/main/C%204%20Convolution%20Neural%20Networks)
 	- Convolution Model
 	- Residual Network
