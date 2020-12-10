@@ -6,7 +6,7 @@ The course covered topics on *YTD*
 	
 ## Table of Contents
 The repository contains excercise on:
-* [C-1 Deep Neural Networks](/C-1-Deep-Neural-Networks/)
+* [C-1 Deep Neural Networks](/C 1 Deep Neural Networks/)
 	- Linear Regression with One Variable
 * [C-2 Improving Neural Networks](/[C-2-Improving-Neural-Networks]/)
 	- Initialization
