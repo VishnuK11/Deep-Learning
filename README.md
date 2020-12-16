@@ -2,7 +2,7 @@
 This repository contains the excercises completed on the Deep learning course offered by Coursera. 
 
 ## Summary
-The course covered topics on *YTD*
+The course covered topics on Deep Neural Networks (DNNs), improving DNNs using regularization and optimization methods, structuing projects, Convolution Neural Networks (CNNs) and Sequence Models using Recurrent Neural Networks(RNNs). A list of applications and concerning projects are listed below. The course provided a thorough bottom up hands-on experience covering theory, application and structuring projects.
 	
 ## Table of Contents
 The repository contains excercise on:
